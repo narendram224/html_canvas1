@@ -1,6 +1,6 @@
 
 <h1>Canvas experiment series part one making Partical using html and css and js </h1
-<h4>The basic2.html page having very nice and cool animation of canvas just check the screenshot </h4>
+<p>The basic2.html page having very nice and cool animation of canvas just check the screenshot </p>
  
  # <label style=""> This is a very simple example after that we take our canvas design to the next label</label>
   
@@ -19,7 +19,7 @@
   <p align="center">
     Make a level up of your frontend skill with canvas.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/narendram224/html_canvas1/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
