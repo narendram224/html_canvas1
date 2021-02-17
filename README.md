@@ -36,7 +36,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Are you excited to learning something new, in the canvas html tutorial .
 So ready and ping me any time if any issue with this. 
@@ -71,7 +70,7 @@ To get a local copy up and running follow these simple example steps.
 
 I think the the project is very simple you just copy both the tree files(html,js,and css) and paste it in your local machine.and run basic any browser 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://github.com/narendram224/html_canvas1/blob/main/README.md)_
 
 
 
@@ -88,7 +87,7 @@ See the [open issues](https://github.com/narendram224/html_canvas1/issues) for a
 
 Your Name - Narnendra kumar maurya
 
-Project Link: [https://github.com/your_username/repo_name]
+Project Link: [https://github.com/narendram224]
 
 
 
