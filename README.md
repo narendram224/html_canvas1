@@ -2,7 +2,7 @@
 <h1>Canvas experiment series part one making Partical using html and css and js </h1>
 <p>The basic2.html page having very nice and cool animation of canvas just check the screenshot </p>
  
- # <p> This is a very simple example after that we take our canvas design to the next label</p>
+  <p> This is a very simple example after that we take our canvas design to the next label</p>
   
 
 
