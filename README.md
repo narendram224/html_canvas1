@@ -2,7 +2,7 @@
 <h1>Canvas experiment series part one making Partical using html and css and js </h1>
 <p>The basic2.html page having very nice and cool animation of canvas just check the screenshot </p>
  
-  <p> This is a very simple example after that we take our canvas design to the next label</p>
+  <p> This is a very simple example after this your canvas design goes to the next level</p>
   
 
 
@@ -68,9 +68,9 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-I think the the project is very simple you just copy both the tree files(html,js,and css) and paste it in your local machine.and run basic any browser 
+I think the the project is very simple you just copy  tree files(html,js,and css) and paste it in your local machine and run any browser 
 
-_For more examples, please refer to the [Documentation](https://github.com/narendram224/html_canvas1/blob/main/README.md)_
+ please refer to the [Documentation](https://github.com/narendram224/html_canvas1/blob/main/README.md)_
 
 
 
